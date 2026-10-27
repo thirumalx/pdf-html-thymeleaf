@@ -31,7 +31,7 @@
 		 <dependency>
             <groupId>ognl</groupId>
             <artifactId>ognl</artifactId>
-            <version>3.2.14</version>
+            <version>3.4.13</version>
         </dependency>
 		<!-- https://mvnrepository.com/artifact/org.xhtmlrenderer/flying-saucer-pdf -->
 		<dependency>
